@@ -170,7 +170,7 @@ green-charge/
 │       └── calc.ts                 ← energy/carbon formulas + annual + MMU extrapolation
 ├── docs/
 │   ├── brief.pdf                   ← the hackathon brief
-│   ├── GreenCharge-Demo.pptx       ← 9-slide presentation deck
+│   ├── GreenCharge-Sharia Alam_25937881.pptx       ← 9-slide presentation deck
 │   ├── GreenCharge-Script.docx     ← speaker script + live-demo checklist
 │   ├── GreenCharge-static.zip      ← pre-built static export of the site
 │   └── screenshots/                ← screenshots used in this README
